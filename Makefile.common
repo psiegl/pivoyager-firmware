@@ -10,7 +10,7 @@ BIN=$(notdir $(CURDIR)).bin
 
 # Library path
 
-LIBROOT=$(HOME)/Src/STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries
+LIBROOT=../src/STM32F0xx_StdPeriph_Lib_V1.6.0/Libraries
 
 # Tools
 
